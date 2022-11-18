@@ -1,0 +1,15 @@
+C:\Users\topot\source\repos\FilesManager\FilesManager\bin\Debug\net6.0\FilesManager.exe
+C:\Users\topot\source\repos\FilesManager\FilesManager\bin\Debug\net6.0\FilesManager.deps.json
+C:\Users\topot\source\repos\FilesManager\FilesManager\bin\Debug\net6.0\FilesManager.runtimeconfig.json
+C:\Users\topot\source\repos\FilesManager\FilesManager\bin\Debug\net6.0\FilesManager.dll
+C:\Users\topot\source\repos\FilesManager\FilesManager\bin\Debug\net6.0\FilesManager.pdb
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\FilesManager.csproj.AssemblyReference.cache
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\FilesManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\FilesManager.AssemblyInfoInputs.cache
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\FilesManager.AssemblyInfo.cs
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\FilesManager.csproj.CoreCompileInputs.cache
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\FilesManager.dll
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\refint\FilesManager.dll
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\FilesManager.pdb
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\FilesManager.genruntimeconfig.cache
+C:\Users\topot\source\repos\FilesManager\FilesManager\obj\Debug\net6.0\ref\FilesManager.dll
